@@ -1,5 +1,3 @@
-'use strict'
-
 import { app, BrowserWindow } from 'electron'
 import './api'
 // const DEV = process.env.NODE_ENV === 'development'

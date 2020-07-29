@@ -1,0 +1,1 @@
+1. 使用测试的npm包时如果这个包会被webpack打包，则不能使用link的方式，需要使用link install的方式安装此包，确保包在依赖树中（tvt）
